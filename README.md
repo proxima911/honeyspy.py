@@ -1,4 +1,4 @@
-
+assets/images/honeypy-logo-white.png
 
 A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, and commands from various protocols (SSH & HTTP supported right now). Written in Python.
 
@@ -97,7 +97,7 @@ To host on VPS, follow the general tips.
 
 To gather logging information, it's advised to use a Virtual Private Server (VPS). VPS's are cloud-based hosts with Internet access. This provides a safe, isolated way to gather real-time information without having to configure and isolate infrastructure on your home network.
 
-You can get 10% off Hostinger VPS with this code (not sponsored on this GitHub project): https://www.hostinger.com/grantcollins
+
 
 A majority of VPS hosting providers will provide a Virtual Firewall where you can open ports. Ensure to open ports used by HONEYPY.
 
